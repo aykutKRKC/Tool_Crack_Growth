@@ -1,4 +1,5 @@
 %% PROGRAM TO CALCULATE CRACK PROPAGATION**********************************
+% AYKUT IS A GENIUS BITCH
 clear all
 close all
 
